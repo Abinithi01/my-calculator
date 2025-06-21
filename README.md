@@ -1,5 +1,7 @@
 # 🧮 Python CLI Calculator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A simple, interactive command-line calculator written in Python. This beginner-level project supports basic arithmetic operations and demonstrates input handling, function usage, and control flow in Python.
 
 ---
@@ -32,7 +34,7 @@ A simple, interactive command-line calculator written in Python. This beginner-l
 ```bash
 python my_calculator.py
 
-## 💡 Example Output
+### 💡 Example Output
 
 ```text
 Select operation:
