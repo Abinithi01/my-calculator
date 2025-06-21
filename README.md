@@ -32,7 +32,9 @@ A simple, interactive command-line calculator written in Python. This beginner-l
 3. Run the script:
 
 ```bash
-python my_calculator.py
+python my_calculator.py 
+```
+---
 
 ### 💡 Example Output
 
@@ -50,3 +52,4 @@ Enter choice (1-7): 3
 Enter first number: 8
 Enter second number: 5
 Result: 40.0
+```
